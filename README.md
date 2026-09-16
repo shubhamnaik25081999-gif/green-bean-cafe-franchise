@@ -1,4 +1,4 @@
-# 🥐 GREEN BEAR CAFE — Luxury Artisan Patisserie & 3D Franchise Website
+# ☕ GREEN BEAN CAFE — Luxury Artisan Patisserie & 3D Franchise Website
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.23-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react)](https://react.dev/)
@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)](https://vercel.com/)
 
-An Apple-inspired luxury web experience for **Green Bear Cafe**, a premium bakery and café franchise brand. Engineered for high performance, scroll-driven storytelling, and qualified franchise lead generation.
+An Apple-inspired luxury web experience for **Green Bean Cafe**, a premium bakery and café franchise brand. Engineered for high performance, scroll-driven storytelling, and qualified franchise lead generation.
 
 ---
 
@@ -49,10 +49,10 @@ An Apple-inspired luxury web experience for **Green Bear Cafe**, a premium baker
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/green-bear-cafe.git
+git clone https://github.com/shubhamnaik25081999-gif/green-bean-cafe-franchise.git
 
 # Navigate to project directory
-cd green-bear-cafe
+cd green-bean-cafe-franchise
 
 # Install dependencies
 npm install
@@ -78,7 +78,7 @@ This project is 100% frontend-ready and requires zero environment variables, bac
 
 1. Push this repository to your GitHub account.
 2. Go to [vercel.com/new](https://vercel.com/new).
-3. Import your `green-bear-cafe` repository.
+3. Import your `green-bean-cafe-franchise` repository.
 4. Keep the default settings (Framework: Next.js) and click **Deploy**.
 
 ---

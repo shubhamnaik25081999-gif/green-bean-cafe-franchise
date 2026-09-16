@@ -161,7 +161,7 @@ export const CinematicHeroScroller: React.FC = () => {
         <canvas
           ref={canvasRef}
           role="img"
-          aria-label="Cinematic entrance and interior walkthrough of Green Bear Cafe"
+          aria-label="Cinematic entrance and interior walkthrough of Green Bean Cafe"
           className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700"
           style={{ opacity: isLoaded ? 1 : 0 }}
         />
@@ -174,7 +174,7 @@ export const CinematicHeroScroller: React.FC = () => {
           <div className="absolute inset-0 z-30 flex flex-col items-center justify-center bg-brand-bg/90 backdrop-blur-md px-6 text-center">
             <div className="w-12 h-12 rounded-full border-2 border-brand-accent/30 border-t-brand-accent animate-spin mb-4" />
             <span className="font-serif text-2xl font-bold text-brand-text mb-2">
-              Green Bear Cafe
+              Green Bean Cafe
             </span>
             <p className="text-xs uppercase tracking-widest text-brand-text-muted font-display">
               Loading Cinematic Walkthrough
@@ -209,7 +209,7 @@ export const CinematicHeroScroller: React.FC = () => {
 
             {/* Supporting Copy */}
             <p className="font-sans text-sm sm:text-lg text-brand-text-muted max-w-2xl mx-auto leading-relaxed mb-7 drop-shadow-sm">
-              Build your own Green Bear Cafe with a proven brand, structured support and a clear path to growth.
+              Build your own Green Bean Cafe with a proven brand, structured support and a clear path to growth.
             </p>
 
             {/* CTAs */}

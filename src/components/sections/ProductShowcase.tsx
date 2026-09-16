@@ -28,6 +28,7 @@ export const ProductShowcase: React.FC = () => {
     'pistachio-rose-chiffon': { src: '/products/hero-pecan-cake.png', isPng: true },
     'golden-croissant-supreme': { src: '/products/golden-croissant.png', isPng: true },
     'matcha-yuzu-tart': { src: '/products/matcha-yuzu-tart.png', isPng: true },
+    'green-bean-espresso': { src: '/products/specialty-espresso.png', isPng: true },
     'green-bear-espresso': { src: '/products/specialty-espresso.png', isPng: true },
     'tiramisu-opera': { src: '/products/hero-pecan-cake.png', isPng: true },
   };

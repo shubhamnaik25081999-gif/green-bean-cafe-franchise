@@ -52,7 +52,7 @@ export const FranchiseOpportunity: React.FC = () => {
 
         {/* Active Model Feature Card */}
         <div className="glass-heavy rounded-3xl p-8 sm:p-12 border border-white/20 dark:border-white/10 shadow-2xl mb-16 relative overflow-hidden">
-          {/* Subtle Green Bear Seal Watermark */}
+          {/* Subtle Green Bean Seal Watermark */}
           <div className="absolute -right-16 -bottom-16 w-80 h-80 opacity-5 pointer-events-none select-none">
             <img
               src="/products/green-bear-seal.png"
@@ -141,7 +141,7 @@ export const FranchiseOpportunity: React.FC = () => {
                   </div>
                   <div className="flex items-center justify-between py-2 border-b border-brand-border-subtle">
                     <span className="text-brand-text-muted">Staff Onboarding</span>
-                    <span className="text-brand-accent font-semibold">Green Bear Academy Certified</span>
+                    <span className="text-brand-accent font-semibold">Green Bean Academy Certified</span>
                   </div>
                   <div className="flex items-center justify-between py-2 border-b border-brand-border-subtle">
                     <span className="text-brand-text-muted">Supply Network</span>

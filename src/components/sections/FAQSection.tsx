@@ -40,7 +40,7 @@ export const FAQSection: React.FC = () => {
             <span className="text-gradient-gold block sm:inline">Questions.</span>
           </h2>
           <p className="font-sans text-sm sm:text-base text-brand-text-muted leading-relaxed max-w-xl mx-auto">
-            Everything you need to know about the Green Bear Cafe franchise opportunity, operational support, and application process.
+            Everything you need to know about the Green Bean Cafe franchise opportunity, operational support, and application process.
           </p>
         </div>
 

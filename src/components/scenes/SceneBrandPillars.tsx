@@ -35,7 +35,7 @@ export const SceneBrandPillars: React.FC = () => {
             </h2>
           </div>
           <p className="font-sans text-sm sm:text-base text-brand-text-muted max-w-md leading-relaxed">
-            The foundation of every successful Green Bear Cafe franchise rests upon six non-negotiable operational and sensory standards.
+            The foundation of every successful Green Bean Cafe franchise rests upon six non-negotiable operational and sensory standards.
           </p>
         </div>
 

@@ -89,7 +89,7 @@ export const BRAND_PILLARS: BrandPillar[] = [
     title: 'Recognized Prestige',
     tag: 'Distinctive Aesthetic',
     shortDesc: 'An iconic silhouette and timeless green-and-crème visual language.',
-    fullDesc: 'The Green Bear crest is synonymous with premium gifting, celebratory moments, and daily indulgence across premium urban neighborhoods.',
+    fullDesc: 'The Green Bean crest is synonymous with premium gifting, celebratory moments, and daily indulgence across premium urban neighborhoods.',
     highlights: ['Luxury packaging design', 'High social currency', 'Signature bespoke boxes']
   },
   {
@@ -110,7 +110,7 @@ export const BRAND_PILLARS: BrandPillar[] = [
   },
   {
     id: 'franchise-training',
-    title: 'Green Bear Academy',
+    title: 'Green Bean Academy',
     tag: 'Empowerment & Mastery',
     shortDesc: 'Comprehensive 4-week immersion for store owners, head baristas, and pastry leaders.',
     fullDesc: 'From espresso extraction calibration to P&L management, our specialized academy guarantees team readiness before doors ever open.',
@@ -124,7 +124,7 @@ export const BUSINESS_NODES: BusinessNode[] = [
     id: 'training',
     name: 'TRAINING',
     iconName: 'GraduationCap',
-    role: 'Green Bear Academy',
+    role: 'Green Bean Academy',
     details: 'Immersive barista and kitchen leadership programs, customer service etiquette, and shift management certifications.',
     metricsLabel: 'Curriculum Depth',
     metricsValue: '120+ Hours Hands-on'
@@ -192,7 +192,7 @@ export const OUTLET_HOTSPOTS: OutletHotspot[] = [
     title: 'Signature Storefront',
     area: 'Exterior & Entrance',
     position: [0, 2.2, 3.8],
-    description: 'High-visibility arched glass facade featuring warm brass fixtures, forest green awnings, and backlit Green Bear crest.',
+    description: 'High-visibility arched glass facade featuring warm brass fixtures, forest green awnings, and backlit Green Bean crest.',
     keyFeature: 'Instant curb appeal that draws premium urban foot traffic.'
   },
   {
@@ -238,7 +238,7 @@ export const PRODUCTS: Product[] = [
     tagline: 'Dark Chocolate Sponge & Roasted Pecan Praline',
     description: 'Velvety Valrhona cocoa crumb layered with slow-cooked sea-salt caramel, toasted buttery Georgia pecans, and warm chocolate ganache drip.',
     notes: ['Salted Butter Caramel', 'Valrhona 70%', 'Toasted Pecans'],
-    pairing: 'Green Bear Reserve Cold Brew',
+    pairing: 'Green Bean Reserve Cold Brew',
     badge: 'Signature Hero'
   },
   {
@@ -271,7 +271,7 @@ export const PRODUCTS: Product[] = [
     pairing: 'Sparkling Jasmine Tonic'
   },
   {
-    id: 'green-bear-espresso',
+    id: 'green-bean-espresso',
     name: 'Estate Reserve Velvet Espresso',
     category: 'coffee',
     tagline: 'Direct-Trade Micro-Lot Roast',
@@ -285,7 +285,7 @@ export const PRODUCTS: Product[] = [
     name: 'Milano Mascarpone Opera Cake',
     category: 'signature',
     tagline: 'Espresso-Infused Joconde & Creamy Mascarpone',
-    description: 'Classic Italian indulgence elevated with almond sponge drenched in Green Bear espresso, layered with whipped zabaglione cream and dusted with raw cocoa nibs.',
+    description: 'Classic Italian indulgence elevated with almond sponge drenched in Green Bean espresso, layered with whipped zabaglione cream and dusted with raw cocoa nibs.',
     notes: ['Fresh Mascarpone', 'Single-Origin Espresso', 'Dutch Cocoa Nibs'],
     pairing: 'Flat White'
   }
@@ -345,7 +345,7 @@ export const FRANCHISE_JOURNEY = [
   {
     step: '01',
     phase: 'EXPLORE',
-    title: 'Discover Green Bear Cafe',
+    title: 'Discover Green Bean Cafe',
     desc: 'Immerse yourself in our aesthetic philosophy, taste the product caliber, and experience the cultural momentum of the brand in person.',
     action: 'Download Franchise Brochure',
     duration: 'Week 1'
@@ -370,7 +370,7 @@ export const FRANCHISE_JOURNEY = [
     step: '04',
     phase: 'APPLY',
     title: 'Academy Immersion & Launch',
-    desc: 'Complete full franchise agreement, undertake Green Bear Academy masterclasses, receive turnkey fit-out support, and execute an unforgettable grand opening.',
+    desc: 'Complete full franchise agreement, undertake Green Bean Academy masterclasses, receive turnkey fit-out support, and execute an unforgettable grand opening.',
     action: 'Grand Opening',
     duration: 'Week 6 – 10'
   }
@@ -383,7 +383,7 @@ export const PARTNER_STORIES: PartnerStory[] = [
     name: 'Aarav & Meera Mehta',
     city: 'Bandra West, Mumbai',
     format: 'Flagship Destination Cafe',
-    quote: 'The customer response from day one was staggering. People treat Green Bear Cafe like their daily sacred ritual.',
+    quote: 'The customer response from day one was staggering. People treat Green Bean Cafe like their daily sacred ritual.',
     story: 'After corporate careers in finance and design, we wanted to build something tactile with timeless warmth. The operational blueprints, central pastry consistency, and architectural guidance made opening our flagship an exhilarating triumph.',
     background: 'Former Investment Banker & Interior Architect',
     avatarText: 'AM'
@@ -393,8 +393,8 @@ export const PARTNER_STORIES: PartnerStory[] = [
     name: 'Vikramaditya Kulkarni',
     city: 'Koregaon Park, Pune',
     format: 'High-Street Neighborhood Cafe',
-    quote: 'The training at Green Bear Academy gave our barista and floor team genuine hospitality pride.',
-    story: 'Pune has an exceptionally discerning cafe culture. Green Bear Cafe immediately stood apart because the dessert quality is truly five-star artisan level, while the branding feels friendly, luxurious, and deeply comforting.',
+    quote: 'The training at Green Bean Academy gave our barista and floor team genuine hospitality pride.',
+    story: 'Pune has an exceptionally discerning cafe culture. Green Bean Cafe immediately stood apart because the dessert quality is truly five-star artisan level, while the branding feels friendly, luxurious, and deeply comforting.',
     background: 'Hospitality Entrepreneur',
     avatarText: 'VK'
   },
@@ -453,13 +453,13 @@ export const CITIES_PRESENCE: CityPresence[] = [
 // FAQs
 export const FAQS: FAQItem[] = [
   {
-    question: 'What defines the Green Bear Cafe franchise opportunity?',
-    answer: 'Green Bear Cafe is a premium artisan patisserie, specialty coffee, and contemporary cafe concept designed for scalable growth. Franchise partners receive a fully documented operating system, centralized high-grade ingredient supply, architectural guidelines, and dedicated marketing engines.',
+    question: 'What defines the Green Bean Cafe franchise opportunity?',
+    answer: 'Green Bean Cafe is a premium artisan patisserie, specialty coffee, and contemporary cafe concept designed for scalable growth. Franchise partners receive a fully documented operating system, centralized high-grade ingredient supply, architectural guidelines, and dedicated marketing engines.',
     category: 'General'
   },
   {
-    question: 'Who is an ideal Green Bear Cafe franchise candidate?',
-    answer: 'We seek passionate entrepreneurs, hospitality groups, or experienced business leaders who share our obsession with quality, aesthetics, and heartfelt guest experiences. While prior F&B experience is valued, our comprehensive Green Bear Academy equips qualified business minds with complete operational mastery.',
+    question: 'Who is an ideal Green Bean Cafe franchise candidate?',
+    answer: 'We seek passionate entrepreneurs, hospitality groups, or experienced business leaders who share our obsession with quality, aesthetics, and heartfelt guest experiences. While prior F&B experience is valued, our comprehensive Green Bean Academy equips qualified business minds with complete operational mastery.',
     category: 'Requirements'
   },
   {
@@ -473,7 +473,7 @@ export const FAQS: FAQItem[] = [
     category: 'Requirements'
   },
   {
-    question: 'How does Green Bear Cafe maintain consistent artisan pastry quality?',
+    question: 'How does Green Bean Cafe maintain consistent artisan pastry quality?',
     answer: 'We utilize a proprietary hybrid commissary and on-site finishing model. Base doughs, signature glazes, and proprietary recipes are standardized through temperature-controlled supply chains, while final baking, lamination, and fresh fruit assembly occur freshly at each cafe.',
     category: 'Support'
   },

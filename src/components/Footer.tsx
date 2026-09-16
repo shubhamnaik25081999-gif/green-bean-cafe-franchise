@@ -18,12 +18,12 @@ export const Footer: React.FC = () => {
               <div className="flex items-center gap-3.5 mb-4">
                 <img
                   src="/products/green-bear-seal.png"
-                  alt="Green Bear Crest"
+                  alt="Green Bean Crest"
                   className="w-12 h-12 rounded-full object-contain filter drop-shadow-md"
                 />
                 <div>
                   <span className="font-serif font-bold text-xl tracking-wider text-brand-text uppercase block">
-                    Green Bear Cafe
+                    Green Bean Cafe
                   </span>
                   <span className="text-[10px] uppercase tracking-[0.25em] text-brand-text-muted font-display block">
                     Artisan Patisserie & Specialty Cafe
@@ -108,7 +108,7 @@ export const Footer: React.FC = () => {
         {/* Bottom Legal & Concept Disclaimer Bar */}
         <div className="pt-8 border-t border-brand-border-subtle flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-brand-text-muted">
           <p>
-            © {new Date().getFullYear()} Green Bear Cafe Franchise Group. All rights reserved.
+            © {new Date().getFullYear()} Green Bean Cafe Franchise Group. All rights reserved.
           </p>
           <p className="text-center sm:text-right">
             Concept Prototype & Portfolio Demonstration. No legal or financial offer made herein.

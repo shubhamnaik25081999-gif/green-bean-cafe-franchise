@@ -36,7 +36,7 @@ function CenterBrandNode({ themeColor }: { themeColor: string }) {
 
       <Html center position={[0, 0, 0]} distanceFactor={11} zIndexRange={[10, 0]}>
         <div className="pointer-events-none select-none px-3.5 py-1.5 rounded-full glass-heavy text-brand-text border border-white/30 text-center whitespace-nowrap shadow-xl">
-          <span className="font-serif font-bold text-xs tracking-wider block">GREEN BEAR CAFE</span>
+          <span className="font-serif font-bold text-xs tracking-wider block">GREEN BEAN CAFE</span>
           <span className="text-[8px] uppercase tracking-widest text-brand-gold font-display">Core Hub</span>
         </div>
       </Html>

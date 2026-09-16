@@ -22,7 +22,7 @@ export const FranchiseStories: React.FC = () => {
             <span className="text-gradient-gold block sm:inline">to Building a Local Cafe.</span>
           </h2>
           <p className="font-sans text-sm sm:text-base text-brand-text-muted leading-relaxed">
-            Illustrative perspectives from entrepreneurs and multi-unit partners who brought the Green Bear Cafe experience to their communities.
+            Illustrative perspectives from entrepreneurs and multi-unit partners who brought the Green Bean Cafe experience to their communities.
           </p>
           <span className="inline-block mt-3 text-[11px] font-display uppercase tracking-widest text-brand-text-muted/75 px-3 py-1 rounded-full glass-pill border border-brand-border-subtle">
             Notice: Sample Partner Profiles for Concept Demonstration

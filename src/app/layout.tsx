@@ -22,25 +22,25 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: 'GREEN BEAR CAFE — Luxury Bakery & Cafe Franchise Opportunity',
+  title: 'GREEN BEAN CAFE — Luxury Bakery & Cafe Franchise Opportunity',
   description:
-    'Enter the world of Green Bear Cafe. Discover a proven luxury bakery brand, structured operational support, artisan patisserie mastery, and a clear path to franchise growth.',
+    'Enter the world of Green Bean Cafe. Discover a proven luxury bakery brand, structured operational support, artisan patisserie mastery, and a clear path to franchise growth.',
   keywords: [
-    'Green Bear Cafe',
+    'Green Bean Cafe',
     'bakery franchise',
     'cafe franchise opportunity',
     'luxury patisserie',
     'specialty coffee business',
     'artisan bakery franchise',
   ],
-  authors: [{ name: 'Green Bear Cafe Franchise Group' }],
+  authors: [{ name: 'Green Bean Cafe Franchise Group' }],
   openGraph: {
-    title: 'GREEN BEAR CAFE — Luxury Bakery & Cafe Franchise Opportunity',
+    title: 'GREEN BEAN CAFE — Luxury Bakery & Cafe Franchise Opportunity',
     description:
-      'Build your own Green Bear Cafe with a proven brand, structured support, and a clear path to growth.',
+      'Build your own Green Bean Cafe with a proven brand, structured support, and a clear path to growth.',
     type: 'website',
     locale: 'en_US',
-    siteName: 'Green Bear Cafe',
+    siteName: 'Green Bean Cafe',
   },
 };
 

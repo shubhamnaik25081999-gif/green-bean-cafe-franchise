@@ -72,7 +72,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="flex flex-col">
               <span className="font-serif font-bold text-sm sm:text-base tracking-wider text-brand-text uppercase leading-tight">
-                Green Bear Cafe
+                Green Bean Cafe
               </span>
               <span className="text-[8px] uppercase tracking-[0.25em] text-brand-text-muted font-display">
                 Franchise

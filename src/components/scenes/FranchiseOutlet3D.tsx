@@ -234,7 +234,7 @@ export const FranchiseOutlet3D: React.FC = () => {
             <span className="text-gradient-gold block sm:inline">3D Interactive Tour.</span>
           </h2>
           <p className="font-sans text-sm sm:text-base text-brand-text-muted leading-relaxed">
-            Explore the spatial ergonomics and customer flow engineered into every square foot of a Green Bear Cafe outlet.
+            Explore the spatial ergonomics and customer flow engineered into every square foot of a Green Bean Cafe outlet.
           </p>
         </div>
 

@@ -111,7 +111,7 @@ export const FranchiseEnquiryForm: React.FC = () => {
           </div>
           <h2 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-brand-text leading-tight mb-4">
             Begin Your Journey With{' '}
-            <span className="text-gradient-gold block sm:inline">Green Bear Cafe.</span>
+            <span className="text-gradient-gold block sm:inline">Green Bean Cafe.</span>
           </h2>
           <p className="font-sans text-sm sm:text-base text-brand-text-muted leading-relaxed max-w-xl mx-auto">
             Submit your qualified expression of interest. Our franchise development leadership will review your market vision and territory preferences.
@@ -126,7 +126,7 @@ export const FranchiseEnquiryForm: React.FC = () => {
             </div>
 
             <h3 className="font-serif text-3xl sm:text-4xl font-bold text-brand-text mb-4 leading-snug">
-              Thank You for Your Interest in Green Bear Cafe.
+              Thank You for Your Interest in Green Bean Cafe.
             </h3>
 
             <p className="font-sans text-base sm:text-lg text-brand-text mb-6 font-medium">
